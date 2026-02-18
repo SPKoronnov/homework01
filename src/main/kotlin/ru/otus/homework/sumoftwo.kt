@@ -8,7 +8,7 @@ fun sumOfTwo(numbers: IntArray, target: Int): IntArray {
     var j: Int
     var flag: Boolean = false
 
-    var arr=IntArray(2)
+    val arr=IntArray(2)
 
     i=0
     while (i < n-1)  {
